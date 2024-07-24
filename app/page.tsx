@@ -19,7 +19,7 @@ export default function Home() {
           </Link>
         </div>
         <div className="mt-12 text-center text-gray-700">
-          <p className="text-lg italic">`&quot;`A room without books is like a body without a soul.`&quot;` - Marcus Tullius Cicero</p>
+          <p className="text-lg italic">&quot;A room without books is like a body without a soul.&quot; - Marcus Tullius Cicero</p>
         </div>
       </div>
     </div>
